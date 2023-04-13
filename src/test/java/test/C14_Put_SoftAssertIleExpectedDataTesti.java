@@ -43,7 +43,7 @@ public class C14_Put_SoftAssertIleExpectedDataTesti {
     @Test
     public void put01(){
         //1-url ve reqBody hazırla
-        String url="http://dummy.restapiexample.com/api/v1/update/21";
+        String url="https://dummy.restapiexample.com/api/v1/update/21";
 
         JSONObject data=new JSONObject();
         data.put("name","Ahmet");
