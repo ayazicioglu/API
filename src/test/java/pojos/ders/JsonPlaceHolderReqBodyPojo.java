@@ -1,4 +1,4 @@
-package pojos;
+package pojos.ders;
 
 public class JsonPlaceHolderReqBodyPojo {
 
